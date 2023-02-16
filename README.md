@@ -1,4 +1,4 @@
-Matrix Math Library for Noir
+**Matrix Math Library for Noir**
 
 Implemented: 
   - transpose
